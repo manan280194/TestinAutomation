@@ -1,0 +1,32 @@
+{
+  "configurations" : [
+    {
+      "id" : "3E6AB9C5-8FD2-4E56-BE76-AB705B16515E",
+      "name" : "Authenticated",
+      "options" : {
+        "uiTestingScreenshotsLifetime" : "keepAlways"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "commandLineArgumentEntries" : [
+      {
+        "argument" : "--skipLogin"
+      }
+    ],
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "LoginFlowUITest"
+      ],
+      "target" : {
+        "containerPath" : "container:PhotoApp.xcodeproj",
+        "identifier" : "E830F6382F3C6CB100531E54",
+        "name" : "PhotoAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

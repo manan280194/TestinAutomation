@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "ACCED91F-1F02-4D1D-A48E-AEBB296C00D9",
+      "name" : "Login Flow - English",
+      "options" : {
+        "areLocalizationScreenshotsEnabled" : true,
+        "language" : "en",
+        "region" : "CA"
+      }
+    },
+    {
+      "id" : "BFE851D5-E76D-478F-B0B5-1A2E1BCF18C2",
+      "name" : "Login Flow - Spanish",
+      "options" : {
+        "areLocalizationScreenshotsEnabled" : true,
+        "language" : "es",
+        "region" : "ES"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "SignupFlowUITests"
+      ],
+      "target" : {
+        "containerPath" : "container:PhotoApp.xcodeproj",
+        "identifier" : "E830F6382F3C6CB100531E54",
+        "name" : "PhotoAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; configuration.title = "Create Account"; ObjectID = "52o-GC-SN9"; */
+"52o-GC-SN9.configuration.title" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "52o-GC-SN9"; */
+"52o-GC-SN9.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "Enl-Ri-uDc"; */
+"Enl-Ri-uDc.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "FuA-nC-Zq7"; */
+"FuA-nC-Zq7.placeholder" = "First Name";
+
+/* Class = "UIViewController"; title = "Second View"; ObjectID = "Fyg-Gv-T27"; */
+"Fyg-Gv-T27.title" = "Second View";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "N55-ks-1Jx"; */
+"N55-ks-1Jx.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "R4m-Yd-dH3"; */
+"R4m-Yd-dH3.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Second Item"; ObjectID = "aqg-WI-D3Z"; */
+"aqg-WI-D3Z.title" = "Second Item";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "l2a-EK-jTN"; */
+"l2a-EK-jTN.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "l2a-EK-jTN"; */
+"l2a-EK-jTN.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Sign up"; ObjectID = "tIh-xT-SVy"; */
+"tIh-xT-SVy.title" = "Sign up";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "was-VS-PYz"; */
+"was-VS-PYz.configuration.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "was-VS-PYz"; */
+"was-VS-PYz.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "xUC-lq-dKe"; */
+"xUC-lq-dKe.placeholder" = "Repeat Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "zqm-hI-nLX"; */
+"zqm-hI-nLX.placeholder" = "Email";
